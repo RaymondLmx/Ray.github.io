@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是刘明轩
+I‘m Ray, I'm writting my academic website. 
 
 A data-driven personal website
 ======
